@@ -1,0 +1,16 @@
+{
+    "name": "inventaris/app",
+    "description": "Inventaris",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Admin"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.0",
+        "phpoffice/phpword": "^1.4"
+    }
+}
